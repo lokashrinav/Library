@@ -103,8 +103,7 @@ body, html{
     font-family: 'Dancing Script', cursive;
     word-breaK: break-all;
     font-weight: bold;
-    margin-left: 10px;
-    margin-right: 10px;
+
 }
 
 
@@ -296,16 +295,22 @@ body, html{
 .title10{
     grid-column: 1/2;
     grid-row: 1/2;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .pages10{
     grid-column: 1/2;
     grid-row: 2/3;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .name10{
     grid-column: 1/2;
     grid-row: 3/4;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .wrong10{
